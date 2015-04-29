@@ -1,11 +1,11 @@
 shadowsocks
 ===========
 
-[![PyPI version]][PyPI] [![Build Status]][Travis CI] 
+[![PyPI version]][PyPI] [![Build Status]][Travis CI]
 
 A fast tunnel proxy that helps you bypass firewalls.
 
-[中文说明][Chinese Readme]
+[中文说明1][Chinese Readme]
 
 Install
 -------
@@ -80,7 +80,7 @@ background, use [Supervisor].
 On your client machine, use the same configuration as your server, and
 start your client.
 
-If you use Chrome, it's recommended to use [SwitchySharp]. Change the proxy 
+If you use Chrome, it's recommended to use [SwitchySharp]. Change the proxy
 settings to
 
     protocol: socks5
