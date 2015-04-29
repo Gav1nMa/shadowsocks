@@ -5,7 +5,7 @@ shadowsocks
 
 A fast tunnel proxy that helps you bypass firewalls.
 
-[中文说明1][Chinese Readme]
+[中文说明][Chinese Readme]
 
 Install
 -------
